@@ -4,7 +4,7 @@ mathlib.py
 
 developed by jimako1989     (twitter @jimako1989)
  
-FEATURES
+Features
 ------
 
 +    Functions like Mathematica
@@ -15,7 +15,7 @@ FEATURES
 +    Consistently and unified function name
 
 
-BASIC NAMING CONVENTION
+Basic naming convention
 ------
 
 +    When a function returns True or False , the last of its name should be appended 'Q'
@@ -23,7 +23,7 @@ BASIC NAMING CONVENTION
 +    The name of arguments should be used as follows. 
      Ex)	double , integer , string , lst( = list) , 
 
-LICENSE
+License
 ----------
 Copyright &copy; 2014 jimako1989
 [MIT License][mit]
