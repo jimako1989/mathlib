@@ -1,13 +1,16 @@
 mathlib.py
 ======================
 - for solving Project Euler efficiently by Python 2
+
 developed by jimako1989     (twitter @jimako1989)
  
 FEATURES
 ------
 
 +    Functions like Mathematica
-	 You can also refer to [Mathematica Document Center][http://reference.wolfram.com/mathematica/guide/Mathematica.html]
+
+     You can also refer to [Mathematica Document Center][guide]
+[guide]: http://reference.wolfram.com/mathematica/guide/Mathematica.html
 
 +    Consistently and unified function name
 
