@@ -2,7 +2,7 @@ mathlib.py
 ======================
 - for solving Project Euler efficiently by Python 2
 
-developed by jimako1989     (twitter @jimako1989)
+developed by jimako1989
  
 Features
 ------
